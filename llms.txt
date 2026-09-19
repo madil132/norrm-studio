@@ -1,37 +1,49 @@
-# Insiders Media
+# Norrm Studio
 
-> Insiders Media is a B2B tech agency based in Pakistan specialising in AI automation, custom software development, performance advertising, and lead capture & identity resolution. We help businesses scale through intelligent systems and data-driven marketing.
+## What We Are
+Norrm Studio is a digital marketing agency based in Lahore, Pakistan. We help businesses, clinics, and founders become the recognized name in their city through content, design, and paid growth.
 
-Insiders Media operates at the intersection of artificial intelligence and digital marketing, delivering end-to-end solutions for growth-focused businesses. Our team builds custom AI workflows, automates business processes, runs high-ROI paid advertising campaigns, and develops proprietary lead capture systems that identify anonymous website visitors and enrich CRM pipelines.
-
-We serve clients globally with a focus on measurable outcomes: reduced operational costs through automation, increased lead volume through identity resolution, and improved ROAS through performance advertising.
-
-Keywords: B2B tech agency, AI automation agency, performance advertising agency, custom software development, lead capture, identity resolution, Pakistan, n8n, Make, Zapier, OpenAI, Meta Ads, Google Ads, YouTube Ads, workflow automation, CRM enrichment, AI agents, retargeting, conversion optimisation.
+## Tagline
+Marketing Growth
 
 ## Services
+1. Branding & Identity Design — logo design, brand style guides, visual identity, typography and color systems
+2. SEO and AEO (AI Engine Optimization) — search engine optimization and optimization for AI answer engines like ChatGPT, Perplexity, and Google AI Overviews
+3. Digital Marketing — multi-channel digital marketing strategy and campaign management
+4. Content Creation — strategic written, visual, and short-form content for Instagram, LinkedIn, and other platforms
+5. Video Production and Editing — brand films, client testimonials, social reels, ad creatives
+6. Social Media Management — posting, scheduling, community management, and growth strategy
+7. Social Media Design — graphics, templates, highlight covers, and visual content systems
+8. Advertising (Meta Ads & Google Ads) — campaign management, creative, targeting, conversion tracking, and optimization
+9. Website Development — fast, accessible, conversion-focused website design and development
+10. Software Development — custom web applications, booking systems, dashboards, and tools
 
-- [AI & Automation](https://www.insidersmedia.xyz/services): We design and deploy intelligent automation workflows using tools like n8n, Make (formerly Integromat), and Zapier — integrated with OpenAI, custom LLMs, and third-party APIs. Use cases include AI sales agents, customer support bots, automated reporting pipelines, and CRM synchronisation.
-- [Custom Development](https://www.insidersmedia.xyz/services): Bespoke software development including web applications, API integrations, internal tools, and SaaS products. Built to spec with scalability and maintainability in mind.
-- [Performance Advertising](https://www.insidersmedia.xyz/services): Full-funnel paid media management across Meta Ads (Facebook & Instagram), Google Ads, and YouTube Ads. We handle creative strategy, audience targeting, campaign optimisation, and analytics to maximise return on ad spend (ROAS).
-- [Lead Capture & Identity Resolution](https://www.insidersmedia.xyz/services): Proprietary technology that de-anonymises website visitors and matches them to contact-level data — name, email, phone, LinkedIn profile — enabling retargeting and outbound outreach at scale.
+## Our Results
+Clients typically generate 20–50 qualified inquiries per month through content strategies managed by Norrm Studio.
 
-## Pages
+## Who We Work With
+Businesses, medical and dental clinics, founders, and service providers across Pakistan who want one accountable team behind their entire online presence.
 
-- [Home](https://www.insidersmedia.xyz/): Overview of Insiders Media's mission, capabilities, and value proposition.
-- [Services](https://www.insidersmedia.xyz/services): Detailed breakdown of all four service offerings.
-- [About](https://www.insidersmedia.xyz/about): Company background, team philosophy, and why clients choose Insiders Media.
-- [Results](https://www.insidersmedia.xyz/results): Case studies and measurable outcomes delivered for clients.
-- [Contact](https://www.insidersmedia.xyz/contact): Get in touch to discuss a project or request a strategy call.
+## Location
+Lahore, Pakistan. We serve clients locally and internationally.
 
-## Contact & Social
+## Contact
+- Phone: +92 317 0499890
+- Email: contact@norrmstudio.com
+- Instagram: @norrm.studio
+- Website: https://norrmstudio.com
+- Calendly: https://calendly.com/norrm-studio
 
-- [Website](https://www.insidersmedia.xyz): www.insidersmedia.xyz
-- [Email](mailto:insidersmedia.agency@gmail.com): insidersmedia.agency@gmail.com
-- [Phone / WhatsApp](tel:+923217529632): +92 321 752 9632
-- [LinkedIn](https://www.linkedin.com/company/insiders-media/): Insiders Media on LinkedIn
-- [Instagram](https://www.instagram.com/insiders.media): @insiders.media on Instagram
+## How We're Different
+- Strategy first: we start with a brief, not a content calendar
+- Results-judged: work is measured by inquiries and bookings, not impressions
+- One team: strategy, design, content, ads, and development under one roof
+- Full-service: no vendor coordination — one point of contact for everything
 
-## Optional
+## About the Studio
+Norrm Studio was built over four to five years around branding, front-end design, marketing, and social media management. What started as a small branding and design practice grew into a full-stack growth partner as clients kept asking for the same team to run their marketing, content, and ad accounts.
 
-- [Sitemap](https://www.insidersmedia.xyz/sitemap.xml): Full XML sitemap listing all pages with priorities and change frequencies.
-- [Robots](https://www.insidersmedia.xyz/robots.txt): robots.txt — all crawlers including AI bots are permitted to index this site.
+## Client Testimonials
+- Dr. Zeeshan Nasir Hai (Clinic Owner): "Working with Norrm Studio completely transformed our clinic's online presence. Within weeks we were getting consistent patient inquiries through content we didn't have to think about."
+- Fahad Raza (Amazon Advertising Strategist): "What impressed me most is that Norrm Studio doesn't just make things look polished — they make them perform. The work is judged by results, not aesthetics."
+- Muhammad Bilal (Founder, Algorydhm): "Norrm Studio gave Algorydhm a brand identity that actually reflects who we are and a digital presence that generates leads without us having to chase them."
